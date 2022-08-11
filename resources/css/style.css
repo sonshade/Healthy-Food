@@ -76,7 +76,8 @@ header{
     width: 60px;
     height: auto;
     float: left;
-    margin-top: 20px;
+    margin-top: 18px;
+    margin-left: 20px;
 }
 .main-nav{
     float: right;
